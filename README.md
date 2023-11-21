@@ -2,6 +2,8 @@
 
 ## This is a class project completed for "COGS 108. Data Science in Practice"
 
+**Can we predict the country of origin of an Arabica coffee bean based on its sensory attributes?**
+
 > collaborated with: Eldrick Dean Solano, Ada Huynh, Kam Lung Tam
 
 **see "FinalProject-Group002-final.ipynb" for the entire report**
